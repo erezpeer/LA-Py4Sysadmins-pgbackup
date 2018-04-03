@@ -7,7 +7,7 @@ setup(
 	name='pgbackup',
 	version='0.1.0',
 	description='Database backup locally or to AWS S3.',
-	long_descriptoin=readme,
+	long_description=readme,
 	author='Erez Peer',
 	author_email='erez.peer@gmail.com',
 	packages=find_packages('src'),
